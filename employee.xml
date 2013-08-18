@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <department deptId="IT">
+        <deptName>IT Department</deptName>
+    </department>
+    <empId>12345</empId>
+    <empName>Test Employee</empName>
+</employee>
